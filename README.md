@@ -7,7 +7,7 @@
 
 ## 📽️ Demo  
 <!-- Embed video or link here -->
-[Watch the demo](https://github.com/RafilAlam/TempConverter/raw/refs/heads/main/TempConverter_demo.mp4)  
+https://github.com/user-attachments/assets/c58125a0-1e4b-40e0-8fc4-ba42fc3c0b43
 
 ---
 
